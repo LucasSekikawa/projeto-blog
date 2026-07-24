@@ -1,3 +1,4 @@
 DJANGO>=6.0.7,<6.2
 psycopg2-binary>=2.9.6
 Pillow>=12.3.0
+django-summernote==0.8.20.0
